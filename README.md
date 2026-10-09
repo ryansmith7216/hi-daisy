@@ -52,3 +52,9 @@ A sanitized database schema is included in `schema.sql`.
 This repository is a sanitized demonstration version of the project.
 
 Credentials, production data, environment-specific configuration, and selected infrastructure details have intentionally been excluded.
+
+### AI-Assisted Development
+
+hi.Daisy was developed with assistance from ChatGPT, Copilot, and Claude.
+
+AI was used to accelerate coding, explore solutions, and troubleshoot issues. I directed the development, designed the architecture, questioned assumptions, challenged recommendations, and made the final decisions. AI-generated code was reviewed, tested, and validated rather than accepted at face value.
