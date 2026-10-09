@@ -53,7 +53,7 @@ This repository is a sanitized demonstration version of the project.
 
 Credentials, production data, environment-specific configuration, and selected infrastructure details have intentionally been excluded.
 
-### AI-Assisted Development
+## AI-Assisted Development
 
 hi.Daisy was developed with assistance from ChatGPT, Copilot, and Claude.
 
